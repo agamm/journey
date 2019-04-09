@@ -10,7 +10,7 @@ I want to be more accountable towards my learning, so I'm making it public!
 |(Basic Statistics w/ R, by the University of Amsterdam)[https://www.coursera.org/learn/basic-statistics?specialization=social-science]|Done 60%, Will finish after Discrete|Statistics basics, helps in various skills.|
 
 # Considering:
-- Linear Algebra (Helps with: vectors, matrices - in use in many cs related subjects)
+- Linear Algebra (Helps with: vectors, matrices - in use in many cs related subjects) - Super important learn well...
   - https://www.udemy.com/linear-algebra-theory-and-implementation/
   - https://www.coursera.org/learn/linear-algebra-machine-learning
   - https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0
@@ -21,9 +21,12 @@ I want to be more accountable towards my learning, so I'm making it public!
   - https://www.coursera.org/learn/algorithms-part2
   - https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures
 - Math for machine learning https://www.coursera.org/specializations/mathematics-machine-learning
+- ML:
+  - https://www.coursera.org/learn/machine-learning?fbclid=IwAR3wEcW8Ktm1-zI7JIV7kdWd3rnyqtl7bg26hhQNGoLbbwfU_JwerHCSmgI
+  
 
 # Done already
-- 2012 - HEMDA, ANN, Genetic Algorithms, Linear Regression
+- 2012 - HEMDA, ANN, Genetic Algorithms, Linear Regression, Unsupervised (K-means).
   - Our project: http://www.hemda.org.il/template/default.aspx?maincat=21&catId=129&pageId=1233 (אגם)
   
   Try to use EDX/Coursera as they are more honored.
