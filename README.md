@@ -24,7 +24,7 @@ I want to be more accountable towards my learning, so I'm making it public!
 - ML:
   - https://www.coursera.org/learn/machine-learning?fbclid=IwAR3wEcW8Ktm1-zI7JIV7kdWd3rnyqtl7bg26hhQNGoLbbwfU_JwerHCSmgI
   
-###Books:
+### Books:
 - Clean code, uncle bob
 - The Mythical Man-Month
 
