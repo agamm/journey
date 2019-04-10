@@ -2,12 +2,13 @@
 I want to be more accountable towards my learning, so I'm making it public!
 
 
+
 # Current learning goals:
 
-|Name|Due Date|Reason|
-|---|---|---|
-|[Discrete Math in Open University](https://www.openu.ac.il/courses/20476.htm)|June 2019|Working on my high level math skills, start with the basics. Learn what a university course means. |
-|(Basic Statistics w/ R, by the University of Amsterdam)[https://www.coursera.org/learn/basic-statistics?specialization=social-science]|Done 60%, Will finish after Discrete|Statistics basics, helps in various skills.|
+|Name|Due Date|Reason|Last Date Worked|
+|---|---|---|---|
+|[Discrete Math in Open University](https://www.openu.ac.il/courses/20476.htm)|June 2019|Working on my high level math skills, start with the basics. Learn what a university course means. |10/4/2019|
+|(Basic Statistics w/ R, by the University of Amsterdam)[https://www.coursera.org/learn/basic-statistics?specialization=social-science]|Done 60%, Will finish after Discrete|Statistics basics, helps in various skills.|1/1/2019|
 
 # Considering:
 - Linear Algebra (Helps with: vectors, matrices - in use in many cs related subjects) - Super important learn well...
