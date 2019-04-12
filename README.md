@@ -24,7 +24,7 @@ I want to be more accountable towards my learning, so I'm making it public!
 - Math for machine learning https://www.coursera.org/specializations/mathematics-machine-learning
 - ML:
   - https://www.coursera.org/learn/machine-learning?fbclid=IwAR3wEcW8Ktm1-zI7JIV7kdWd3rnyqtl7bg26hhQNGoLbbwfU_JwerHCSmgI
-  
+  - nlp: https://www.coursera.org/learn/language-processing
 ### Books:
 - Clean code, uncle bob
 - The Mythical Man-Month
