@@ -34,7 +34,8 @@ I want to be more accountable towards my learning, so I'm making it public!
 - Clean code, uncle bob
 - The Mythical Man-Month
 - https://www.amazon.com/Startup-Checklist-Scalable-High-Growth-Business/dp/111916379X
-
+- https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering-ebook/dp/B01J53IE1O
+- 
 # Done already
 - 2012 - HEMDA, ANN, Genetic Algorithms, Linear Regression, Unsupervised (K-means).
   - Our project: http://www.hemda.org.il/template/default.aspx?maincat=21&catId=129&pageId=1233 (אגם)
