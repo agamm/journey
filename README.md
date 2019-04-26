@@ -7,7 +7,7 @@ I want to be more accountable towards my learning, so I'm making it public!
 
 |Name|Due Date|Reason|Last Date Worked|
 |---|---|---|---|
-|[Discrete Math in Open University](https://www.openu.ac.il/courses/20476.htm)|June 2019|Working on my high level math skills, start with the basics. Learn what a university course means. | 24/4/2019|
+|[Discrete Math in Open University](https://www.openu.ac.il/courses/20476.htm)|June 2019|Working on my high level math skills, start with the basics. Learn what a university course means. | 27/4/2019|
 |[Basic Statistics w/ R, by the University of Amsterdam](https://www.coursera.org/learn/basic-statistics?specialization=social-science)|Done 60%, Will finish after Discrete|Statistics basics, helps in various skills.|15/1/2019|
 
 # Considering:
@@ -30,12 +30,17 @@ I want to be more accountable towards my learning, so I'm making it public!
   - https://www.skillshare.com/classes/Intro-to-UX-Fundamentals-of-Usability/538580770?via=homepage
   - https://www.skillshare.com/classes/Fundamentals-of-Product-Management/13678645?via=homepage
   - https://www.coursera.org/learn/legal-tech-startups
+  
 ### Books:
 - Clean code, uncle bob
 - The Mythical Man-Month
 - https://www.amazon.com/Startup-Checklist-Scalable-High-Growth-Business/dp/111916379X
 - https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering-ebook/dp/B01J53IE1O
-- 
+
+### Video lessons
+- https://mru.org/economics-video-library
+- Khan academy
+
 # Done already
 - 2012 - HEMDA, ANN, Genetic Algorithms, Linear Regression, Unsupervised (K-means).
   - Our project: http://www.hemda.org.il/template/default.aspx?maincat=21&catId=129&pageId=1233 (אגם)
