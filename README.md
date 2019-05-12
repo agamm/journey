@@ -7,7 +7,7 @@ I want to be more accountable towards my learning, so I'm making it public!
 
 |Name|Due Date|Reason|Last Date Worked|
 |---|---|---|---|
-|[Discrete Math in Open University](https://www.openu.ac.il/courses/20476.htm)|June 2019|Working on my high level math skills, start with the basics. Learn what a university course means. | 11/5/2019|
+|[Discrete Math in Open University](https://www.openu.ac.il/courses/20476.htm)|June 2019|Working on my high level math skills, start with the basics. Learn what a university course means. | 13/5/2019|
 |[Basic Statistics w/ R, by the University of Amsterdam](https://www.coursera.org/learn/basic-statistics?specialization=social-science)|Done 60%, Will finish after Discrete|Statistics basics, helps in various skills.|15/1/2019|
 
 # Considering:
@@ -45,6 +45,7 @@ I want to be more accountable towards my learning, so I'm making it public!
 - Finance & Economics:
   - https://www.coursera.org/learn/finance-for-non-finance
   - https://www.edx.org/course/principles-of-economics-with-calculus
+  - https://www.coursera.org/learn/finance-for-startups
 - General & Other:
   - https://www.coursera.org/learn/logical-fallacies
   - https://www.coursera.org/learn/learning-how-to-learn
