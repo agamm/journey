@@ -8,7 +8,7 @@ I want to be more accountable towards my learning, so I'm making it public!
 |Name|Due Date|Reason|Last Date Worked|
 |---|---|---|---|
 |[Discrete Math in Open University](https://www.openu.ac.il/courses/20476.htm)|June 2019|Working on my high level math skills, start with the basics. Learn what a university course means. | 27/6/2019 DONE + Passed!|
-|[Basic Statistics w/ R, by the University of Amsterdam](https://www.coursera.org/learn/basic-statistics?specialization=social-science)|18/8/2019 |Statistics basics, helps in various skills.|27/7/2019|
+|[Basic Statistics w/ R, by the University of Amsterdam](https://www.coursera.org/learn/basic-statistics?specialization=social-science)|18/8/2019 |Statistics basics, helps in various skills.|7/8/2019|
 
 # Considering:
 
