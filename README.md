@@ -40,6 +40,9 @@ I want to be more accountable towards my learning, so I'm making it public!
   - https://www.coursera.org/learn/legal-tech-startups
 - Law:
   - https://www.edx.org/course/contract-law-from-trust-to-promise-to-contract-3
+  - https://www.coursera.org/learn/american-law
+  - https://www.coursera.org/learn/law-student
+  - https://www.coursera.org/learn/contracts-1
 - Biology & Physics:
   - https://www.edx.org/course/dna-biologys-genetic-code-2
   - https://www.edx.org/course/quantum-mechanics-everyone-georgetownx-phyx-008-01x
