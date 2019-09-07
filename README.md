@@ -25,6 +25,7 @@ I want to be more accountable towards my learning, so I'm making it public!
   - https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures
   - https://www.coursera.org/specializations/algorithms
   - https://www.coursera.org/learn/crypto
+  - https://www.edx.org/course/queuing-theory-from-markov-chains-to-multi-server-systems-2
 - Math:
   - https://www.edx.org/course/statistical-thinking-data-science-analytics-1
   - for machine learning:
