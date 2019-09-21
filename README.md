@@ -78,3 +78,6 @@ I want to be more accountable towards my learning, so I'm making it public!
   - Our project: http://www.hemda.org.il/template/default.aspx?maincat=21&catId=129&pageId=1233 (אגם)
   
   Try to use EDX/Coursera as they are more honored.
+  
+# Videos / Links I linked and saw on the way:
+- Processes, Synchronization & Deadlock (MIT): https://www.youtube.com/watch?v=TVkQ1VeRKt4 
