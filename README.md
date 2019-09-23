@@ -81,3 +81,4 @@ I want to be more accountable towards my learning, so I'm making it public!
   
 # Videos / Links I linked and saw on the way:
 - Processes, Synchronization & Deadlock (MIT): https://www.youtube.com/watch?v=TVkQ1VeRKt4 
+- Python's Infamous GIL - https://www.youtube.com/watch?v=KVKufdTphKs
