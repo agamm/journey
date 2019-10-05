@@ -9,7 +9,7 @@ I want to be more accountable towards my learning, so I'm making it public!
 |---|---|---|---|---|---|
 |[Discrete Math in Open University](https://www.openu.ac.il/courses/20476.htm)|6/3/19|June 2019|Working on my high level math skills, start with the basics. Learn what a university course means. | 27/6/2019 DONE |Passed!|
 |[Basic Statistics w/ R, by the University of Amsterdam](https://www.coursera.org/learn/basic-statistics?specialization=social-science)|10/7/19|18/8/2019 |Statistics basics, helps in various skills.|9/8/2019 DONE|[Certificate](https://www.coursera.org/account/accomplishments/certificate/3QWMZBMKLB2E)|
-|[Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)|11/10/2019|26/10/2019|LA used in many places|20/9/19|--|
+|[Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)|11/10/2019|26/10/2019|LA used in many places|5/10/19|--|
 
 # Considering:
 
