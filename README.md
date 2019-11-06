@@ -30,6 +30,7 @@ I want to be more accountable towards my learning, so I'm making it public!
   - https://www.edx.org/course/statistical-thinking-data-science-analytics-1
   - for machine learning:
     https://www.coursera.org/specializations/mathematics-machine-learning
+  - https://www.coursera.org/learn/mathematics-for-computer-science
 - ML:
   - https://www.coursera.org/learn/machine-learning?fbclid=IwAR3wEcW8Ktm1-zI7JIV7kdWd3rnyqtl7bg26hhQNGoLbbwfU_JwerHCSmgI
   - nlp: https://www.coursera.org/learn/language-processing
